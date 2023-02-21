@@ -5,7 +5,7 @@ DATA_PATH = os.path.abspath(os.path.join(PATH, os.pardir)) + '/data'
 
 def scramble(text_file, symbols, output_file_name=None, outp=True):    
     """
-    Scrambles a text given in text file
+    Scrambles a text
     
     Inputs: text_file        : input text
             symbols          : list of valid symbols
