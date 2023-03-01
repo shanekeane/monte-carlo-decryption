@@ -1,5 +1,5 @@
 # Monte-carlo-decryption
-This uses the Metropolis-Hastings algorithm to decode a text created with a substitution cipher. I.e. each symbol, comprising letters and a limited number of other symbols, are substituted uniquely with another one of the symbols
+This uses the Metropolis-Hastings algorithm to decode a text created with a substitution cipher. I.e. each symbol, the symbols comprising letters and a limited number of other symbols, is substituted uniquely with another one of the symbols
 
 # Description 
 - The method requires the creation of a transition matrix. A demo and code is used for producing a transition matrix from War and Peace. The version of War and Peace is taken from Project Gutenberg. 
